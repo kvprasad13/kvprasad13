@@ -1,16 +1,6 @@
 
 ### Hi there, 👋 I'm Varaprasad Kade!
  🚀 Passionate about AI and crafting cutting-edge websites using the MERN stack.
-
-## 🎓 Education
-- **B.Tech in Computer Science (AI Specialization)**
-  - Sree Vidyanikethan Engineering College, May 2020 - Expected 2024 🚀
-  - CGPA: 8.7/10.0
-
-- **Intermediate**
-  - Sri Chaitanya Jr College, May 2018 - April 2020
-  - CGPA: 9.82/10.0
-
 ## 💻 Skills
 - **Programming Languages:** Java, Python, C
 - **Web Development:** HTML, CSS, JavaScript, React 🌐
@@ -19,15 +9,15 @@
 - **Other Skills:** Algorithm Optimization, Competitive Programming 🏆
 
 ## 🛠️ Projects
-1. **[Blog Management System](#)**
+1. **[Blog Management System](https://github.com/kvprasad13/Content-Management-System/tree/master)**
    - Full-stack blogging app with authentication, CRUD operations, comments, and more.
    - Tech: React, Node.js, Express, MongoDB 🚀
 
-2. **[Lung Cancer Prediction](#)**
+2. **[Lung Cancer Prediction](https://github.com/kvprasad13/Lung_Cancer_Prediction)**
    - Developed a robust lung cancer risk prediction model with 90.33% accuracy.
    - Tech: Machine Learning 🧠
 
-3. **[Movie Land](#)**
+3. **[Movie Land](https://github.com/kvprasad13/MovieLand-React)**
    - Dynamic movie website with features like listing, search, and third-party API integration.
    - Tech: React 🎬
 
@@ -36,11 +26,11 @@
 - Top rankings in Coding Ninjas contests, LeetCode, and GeeksForGeeks 🥇
 
 ## 🌐 Connect with Me
-- [LinkedIn](LinkedIn://kvprasad13)
-- [GitHub](GitHub://kvprasad13)
-- [LeetCode](LeetCode://varaprasadkade)
-- [GeekForGeeks](GeekForGeeks://varaprasadkade)
-- [CodeChef](CodeChef://varaprasadkade)
+- [LinkedIn](https://www.linkedin.com/in/kvprasad13/)
+- [GitHub](https://github.com/kvprasad13)
+- [LeetCode](https://leetcode.com/varaprasadkade/)
+- [GeekForGeeks](https://auth.geeksforgeeks.org/user/varaprasadkade)
+- [CodeChef](https://www.codechef.com/users/varaprasadkade)
 
 ## 👨‍💻 Internship Experience
 - **Web Development Intern** at Code Alpha (July 2023 – Aug 2023)
