@@ -27,7 +27,6 @@
 
 ## 🌐 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/kvprasad13/)
-- [GitHub](https://github.com/kvprasad13)
 - [LeetCode](https://leetcode.com/varaprasadkade/)
 - [GeekForGeeks](https://auth.geeksforgeeks.org/user/varaprasadkade)
 - [CodeChef](https://www.codechef.com/users/varaprasadkade)
