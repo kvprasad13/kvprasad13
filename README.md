@@ -9,7 +9,7 @@
 - **Other Skills:** Algorithm Optimization, Competitive Programming 🏆
 
 ## 🛠️ Projects
-1. **[Blog Management System](https://github.com/kvprasad13/Blog-Management-System/tree/master)**
+1. **[Blog App](https://github.com/kvprasad13/Blog-App/tree/master)**
    - Full-stack blogging app with authentication, CRUD operations, comments, and more.
    - Tech: React, Node.js, Express, MongoDB 🚀
 
